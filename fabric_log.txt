@@ -1,0 +1,4 @@
+[SWITCH->2] Packet forwarded - Interface: 2, Packet(src=00:00:00:00:00:01, dst=00:00:00:00:00:03, payload=Test VLAN)
+[SWITCH->1] Packet forwarded - Interface: 1, Packet(src=00:00:00:00:00:01, dst=00:00:00:00:00:02, payload=Correct Encryption Key)
+[SWITCH->2] Packet forwarded - Interface: 2, Packet(src=00:00:00:00:00:01, dst=00:00:00:00:00:03, payload=gAAAAABnb2iOcHWayZBokP36Lt2Rc7xEY-Qy0IM8CYGYMEV2IJ89Q5yqf4c5vHLLBp6lqTeqDh0nmCXiaxoPeJyUdwF10PT8a9jszj9hfG6TyjoGdHcPcio=)
+[SWITCH->1] Packet forwarded - Interface: 1, Packet(src=00:00:00:00:00:01, dst=00:00:00:00:00:02, payload=Encrypted and modulated signal)
